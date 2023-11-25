@@ -1,2 +1,4 @@
 # テストPage作成中
-再度開くか確認中
+
+## 公開ページ
+https://ryo-kitashoji.github.io/
